@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/ng9-crud-web",
+    "public": "dist/ng9",
     "ignore": [
       "firebase.json",
       "**/.*",
