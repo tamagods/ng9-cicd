@@ -1,5 +1,7 @@
 # Ng9
 
+[![build status](https://github.com/tamagods/ng9-cicd/workflows/Build/badge.svg)](https://github.com/tamagods/ng9-cicd/actions)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0.
 
 ## Development server
